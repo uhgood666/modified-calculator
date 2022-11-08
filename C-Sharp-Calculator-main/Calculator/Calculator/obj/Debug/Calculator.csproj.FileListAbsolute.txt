@@ -1,0 +1,28 @@
+C:\Users\HP\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\HP\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\HP\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\HP\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\HP\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Other courses\hacktober2021\C-Sharp-Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Other courses\hacktober2021\C-Sharp-Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Other courses\hacktober2021\C-Sharp-Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Other courses\hacktober2021\C-Sharp-Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Other courses\hacktober2021\C-Sharp-Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Other courses\hacktober2021\C-Sharp-Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Other courses\hacktober2021\C-Sharp-Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Harindu\Desktop\New folder (7)\C-Sharp-Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Harindu\Desktop\New folder (7)\C-Sharp-Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Harindu\Desktop\New folder (7)\C-Sharp-Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Harindu\Desktop\New folder (7)\C-Sharp-Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Harindu\Desktop\New folder (7)\C-Sharp-Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Harindu\Desktop\New folder (7)\C-Sharp-Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Irina\OneDrive\Документы\C-Sharp-Calculator-main\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Irina\OneDrive\Документы\C-Sharp-Calculator-main\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Irina\OneDrive\Документы\C-Sharp-Calculator-main\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Irina\OneDrive\Документы\C-Sharp-Calculator-main\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Irina\OneDrive\Документы\C-Sharp-Calculator-main\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Irina\OneDrive\Документы\C-Sharp-Calculator-main\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Irina\OneDrive\Документы\C-Sharp-Calculator-main\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Irina\OneDrive\Документы\C-Sharp-Calculator-main\Calculator\Calculator\obj\Debug\Calculator.pdb
